@@ -1,0 +1,2 @@
+C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngine\obj\x86\Debug\KaisEngine.csprojResolveAssemblyReference.cache
+C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

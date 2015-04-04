@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E4EB572F-574D-46B9-A056-D63C20DCC1D1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngine\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kaizi99\documents\visual studio 2013\Projects\KaisEngine\KaisEngine\KaisEngine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-03T13:37:23.4978739+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
